@@ -1,4 +1,10 @@
-{
-  "abcd": "2025-06-01",
-  "moonkod": "2025-07-01"
-}
+[
+    {
+        "code": "examplecode1",
+        "expiry": "2025-12-31"
+    },
+    {
+        "code": "examplecode2",
+        "expiry": "2025-11-30"
+    }
+]
